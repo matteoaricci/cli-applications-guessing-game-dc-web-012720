@@ -1,5 +1,5 @@
 def run_guessing_game
-  puts "Pick a number between 1 and 6"
+  p "Pick a number between 1 and 6"
   
   ran_num = rand(6) + 1
   
